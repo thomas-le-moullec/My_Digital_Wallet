@@ -14,3 +14,7 @@ Providing a SAAS would simplify the process of keeping protocol and software up 
 
 ## Vision
 The project aims to be used with another project that I am building: a Payment Gateway.
+
+## Acknoledgements
+
+Swaperoo - Stanford: https://s3.ap-northeast-2.amazonaws.com/tslemoullec-docs/SWAPEROO_A_Simple_Wallet_Architecture_for_Payments.pdf
