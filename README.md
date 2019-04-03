@@ -4,10 +4,10 @@ For the PoC, the solution will be handling only one geographical zone (Hong Kong
 Nevertheless, the producers can differ and send different types of transactions.
 Resiliancy, Maintenability and Fault Tolerance would be a priority for this solution.
 
-##Industry Context
+## Industry Context
 **To Define**
 
-##Introduction and Concept
+## Introduction and Concept
 **To Define**
 ### Statistics and Game Changer Event
 
